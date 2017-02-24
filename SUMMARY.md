@@ -10,4 +10,5 @@
   * [循环](chapter1/javascript/6.md)
   * [函数](chapter1/javascript/7.md)
   * [对象](chapter1/javascript/8.md)
+* [前端开发笔记本](http://caibaojian.com/fend_note/)
 
