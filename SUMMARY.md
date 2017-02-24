@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前路漫漫](README.md)
 * [javascript笔记](chapter1.md)
   * [JavaScript基础](chapter1/javascript/1.md)
   * [数字](chapter1/javascript/2.md)
@@ -10,5 +10,7 @@
   * [循环](chapter1/javascript/6.md)
   * [函数](chapter1/javascript/7.md)
   * [对象](chapter1/javascript/8.md)
+* css笔记
+* [Bootstrap手册](http://v3.bootcss.com/)
 * [前端开发笔记本](http://caibaojian.com/fend_note/)
 
