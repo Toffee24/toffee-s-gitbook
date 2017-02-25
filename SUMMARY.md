@@ -14,6 +14,7 @@
   * [浏览器兼容问题](css/1.md)
   * [优先级的计算规则](css/2.md)
   * [如何居中div？](css/3.md)
+  * [初始化CSS样式](css/4.md)
   * [relative absolute和 float](css/relative-absolute-float.md)
 * [Bootstrap手册](http://v3.bootcss.com/)
 * [jQuery手册](http://caibaojian.com/jquery/)
