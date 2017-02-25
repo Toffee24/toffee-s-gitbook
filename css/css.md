@@ -27,3 +27,7 @@ table { border-collapse:collapse; border-spacing:0; }
 
 
 
+### 绝对定位inline-block属性的元素,margin不会和垂直方向上的其他元素margin折叠.
+
+
+

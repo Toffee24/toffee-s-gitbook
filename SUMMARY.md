@@ -10,6 +10,7 @@
   * [循环](chapter1/javascript/6.md)
   * [函数](chapter1/javascript/7.md)
   * [对象](chapter1/javascript/8.md)
+  * [几条写JavaScript的基本规范](chapter1/javascript/javascript.md)
 * [css笔记](css.md)
   * [浏览器兼容问题](css/1.md)
   * [优先级的计算规则](css/2.md)
