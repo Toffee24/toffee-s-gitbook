@@ -12,7 +12,7 @@
   * [对象](chapter1/javascript/8.md)
   * [几条写JavaScript的基本规范](chapter1/javascript/javascript.md)
   * [数组的栈LIFO方法和队列FIFO方法](chapter1/javascript/lifo.md)
-  * [arguments与阶乘](chapter1/javascript/arguments.md)
+  * [arguments与阶乘、callee、caller](chapter1/javascript/arguments.md)
 * [css笔记](css.md)
   * [浏览器兼容问题](css/1.md)
   * [优先级的计算规则](css/2.md)

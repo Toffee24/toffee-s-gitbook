@@ -22,12 +22,9 @@ function factorial(num){
 
     }
 }
-
 ```
 
 arguments.callee**可以解除函数的耦合**
-
-
 
 函数对象还有一个属性：caller，简而言之，指向调用当前函数的函数。
 
