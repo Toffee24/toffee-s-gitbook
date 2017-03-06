@@ -15,6 +15,8 @@
   * [arguments与阶乘、callee、caller](chapter1/javascript/arguments.md)
   * [一些关于数组的栗子](chapter1/javascript/arrayitem.md)
   * [setTimeout与闭包](chapter1/javascript/settimeout.md)
+  * [ES6上](chapter1/javascript/es6.md)
+  * [ES6下](chapter1/javascript/es6part2.md)
 * [css笔记](css.md)
   * [浏览器兼容问题](css/1.md)
   * [优先级的计算规则](css/2.md)
