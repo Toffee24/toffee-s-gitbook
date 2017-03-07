@@ -2,6 +2,7 @@
 
 * [前路漫漫](README.md)
 * [javascript笔记](chapter1.md)
+  * [几条写JavaScript的基本规范](chapter1/javascript/javascript.md)
   * [JavaScript基础](chapter1/javascript/1.md)
   * [数字](chapter1/javascript/2.md)
   * [字符串](chapter1/javascript/3.md)
@@ -10,7 +11,6 @@
   * [循环](chapter1/javascript/6.md)
   * [函数](chapter1/javascript/7.md)
   * [对象](chapter1/javascript/8.md)
-  * [几条写JavaScript的基本规范](chapter1/javascript/javascript.md)
   * [数组的栈LIFO方法和队列FIFO方法](chapter1/javascript/lifo.md)
   * [arguments与阶乘、callee、caller](chapter1/javascript/arguments.md)
   * [一些关于数组的栗子](chapter1/javascript/arrayitem.md)
