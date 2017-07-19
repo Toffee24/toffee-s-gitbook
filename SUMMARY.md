@@ -23,7 +23,5 @@
   * [如何居中div？](css/3.md)
   * [初始化CSS样式](css/css.md)
   * [relative absolute和 float](css/relative-absolute-float.md)
-* [Bootstrap手册](http://v3.bootcss.com/)
-* [jQuery手册](http://caibaojian.com/jquery/)
 * [关于salesman抢单端gulp.file 的文件分析](guan-yu-salesman-qiang-dan-duan-gulp-file-de-wen-jian-fen-xi.md)
 
