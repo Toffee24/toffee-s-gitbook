@@ -26,6 +26,7 @@
 * [js算法](jssuan-fa.md)
   * [数组求和](js算法/shu-zu-qiu-he.md)
   * [移除数组中的元素](js算法/yi-chu-shu-zu-zhong-de-yuan-su.md)
+  * [删除数组最后一个元素](js算法/shan-chu-shu-zu-zui-hou-yi-ge-yuan-su.md)
 * [关于salesman抢单端gulp.file 的文件分析](guan-yu-salesman-qiang-dan-duan-gulp-file-de-wen-jian-fen-xi.md)
 * [秒下钱index es6](miao-xia-qian-index-es6.md)
 
