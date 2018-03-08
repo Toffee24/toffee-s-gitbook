@@ -18,7 +18,6 @@
 
 ```
 10
-
 ```
 
 不考虑算法复杂度，用递归做：
@@ -27,25 +26,25 @@
 | :--- | :--- |
 
 
- 常规循环：
+常规循环：
 
 | 1234567 | `functionsum(arr) {vars = 0;for(vari=arr.length-1; i>=0; i--) {s += arr[i];}returns;}` |
 | :--- | :--- |
 
 
- 函数式编程 map-reduce：
+函数式编程 map-reduce：
 
 | 12345 | `functionsum(arr) {returnarr.reduce(function(prev, curr, idx, arr){returnprev + curr;});}` |
 | :--- | :--- |
 
 
- forEach遍历：
+forEach遍历：
 
 | 12345678 | `functionsum(arr) {vars = 0;arr.forEach(function(val, idx, arr) {s += val;}, 0);returns;};` |
 | :--- | :--- |
 
 
- eval：
+eval：
 
 | 123 | `functionsum(arr) {returneval(arr.join("+"));};` |
 | :--- | :--- |
