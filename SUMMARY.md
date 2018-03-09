@@ -30,6 +30,7 @@
   * [数组合并](js算法/shu-zu-he-bing.md)
   * [查找重复元素](js算法/cha-zhao-zhong-fu-yuan-su.md)
   * [短路操作 \|\| &&](js算法/duan-lu-cao-zuo-andand.md)
+  * [使用闭包](js算法/shi-yong-bi-bao.md)
 * [关于salesman抢单端gulp.file 的文件分析](guan-yu-salesman-qiang-dan-duan-gulp-file-de-wen-jian-fen-xi.md)
 * [秒下钱index es6](miao-xia-qian-index-es6.md)
 
