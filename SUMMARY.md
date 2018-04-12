@@ -34,4 +34,5 @@
   * [二次封装函数](js算法/er-ci-feng-zhuang-han-shu.md)
 * [关于salesman抢单端gulp.file 的文件分析](guan-yu-salesman-qiang-dan-duan-gulp-file-de-wen-jian-fen-xi.md)
 * [mxq index](miao-xia-qian-index-es6.md)
+* [mgmt-gulp](mgmt-gulp.md)
 
